@@ -1,0 +1,4 @@
+{
+  "*.ts": "npm run lint:check",
+  "*.js": "npm run lint:check"
+}
